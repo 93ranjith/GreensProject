@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14168" started-at="2022-06-29T02:58:08Z" finished-at="2022-06-29T02:58:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14168" started-at="2022-06-29T02:58:08Z" finished-at="2022-06-29T02:58:23Z">
+      <class name="org.green.PojoProject">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.green.PojoProject@1e802ef9]" name="launchUrl" is-config="true" duration-ms="4234" started-at="2022-06-29T02:58:08Z" finished-at="2022-06-29T02:58:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="execqution_test_cs_1()[pri:0, instance:org.green.PojoProject@1e802ef9]" name="execqution_test_cs_1" duration-ms="1247" started-at="2022-06-29T02:58:13Z" finished-at="2022-06-29T02:58:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execqution_test_cs_1 -->
+        <test-method status="PASS" signature="submit_test_cs_2()[pri:0, instance:org.green.PojoProject@1e802ef9]" name="submit_test_cs_2" duration-ms="8640" started-at="2022-06-29T02:58:14Z" finished-at="2022-06-29T02:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit_test_cs_2 -->
+      </class> <!-- org.green.PojoProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
